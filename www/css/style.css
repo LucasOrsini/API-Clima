@@ -1,0 +1,33 @@
+/**/
+body{
+    font-family: serif;
+    font-weight: bold;
+}
+
+.city{
+    font-size: 35px;
+    background-color: gainsboro;
+}
+
+.date {
+    font-size: 18px;
+}
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    background-color: lightskyblue;
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    font-size: 60px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.weather{
+    font-size: 35px;
+}
+
+.low-high {
+    font-size: 25px;
+}
